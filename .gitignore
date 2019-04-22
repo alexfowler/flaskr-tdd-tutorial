@@ -1,0 +1,5 @@
+# PyCharm IDE config file
+.idea/
+
+# Byte-compiled
+__pycache__/
