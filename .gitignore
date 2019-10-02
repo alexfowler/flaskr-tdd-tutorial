@@ -3,6 +3,8 @@
 
 # Byte-compiled
 __pycache__/
+*.pyc
+*.DS_Store
 
 # Pipfile
 Pipfile.lock
